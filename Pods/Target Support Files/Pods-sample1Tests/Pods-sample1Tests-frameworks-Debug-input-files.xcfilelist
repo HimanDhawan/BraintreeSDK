@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-sample1Tests/Pods-sample1Tests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Braintree/Braintree.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/Braintree/PayPalDataCollector/PPRiskMagnes.framework/PPRiskMagnes
